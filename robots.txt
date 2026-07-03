@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wal-ba-rt8-5.github.io/info-pages/sitemap.xml
