@@ -1,0 +1,2 @@
+# info-pages
+SEO content
